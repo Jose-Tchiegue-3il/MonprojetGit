@@ -1,2 +1,3 @@
 message="je m'appelle lalou"
 print(message)
+int n=0
